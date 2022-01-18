@@ -1,0 +1,14 @@
+Proje 2
+[16,21,11,8,12,22] -> Merge Sort
+
+* Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+* Big-O gösterimini yazınız.
+
+Cevap:
+1. searching: [8,11,12,16,21,22]
+   closest pair: [8,11,12] [16,212,22]
+   aynı eleman kontrolü: 0
+   mode bulma: []11,12] [21,22]
+
+2. 2. O(6)
+   O(log6)
